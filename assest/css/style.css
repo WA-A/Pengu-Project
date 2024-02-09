@@ -20,6 +20,14 @@
     color: white;
 }
 /* header*/
+.scroll-to-top{
+    background-color: var(--border_main_color);
+    width: 40px;
+    height: 40px;
+    bottom: 20px;
+    right: 20px;
+    cursor: pointer;
+}
 header {
     background-color: rgba(7, 1, 67, 0.05);
 }
